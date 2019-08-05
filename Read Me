@@ -1,0 +1,12 @@
+Comprehensive Stability Analysis of Different Non-Small Cell Lung Cancer Causing EGFR Dimers
+
+Lung cancer is the foremost reason of cancer deaths in the world. The survival rate of the non-small cell lung cancer (NSCLC) positive patients
+is increasing with the improvements in the field of computational and clinical biology. A specific change in the epidermal growth factor 
+receptor (EGFR) causes point mutation or complex mutation (deletion and insertion), which is the root cause of NSCLC. EGFR's extracellular 
+ligand-binding region gets stimulated due to its growth factor ligands, and the transition occurs from an inactive monomeric structure to an 
+activated homodimer with another EGFR or a heterodimer with another ErbB receptor family member. The eminence L858R mutation takes place in 
+the EGFR kinase domain and causes NSCLC, and after a few months of treatment, T790M drug resistance mutation occurs. In our research, we have 
+considered three EGFR dimers (EGFR-EGFR, EGFR-cMET, EGFR-ErbB2) and formed a hydrogen bond network to track their behavioral changes for 
+wildtype, L858R, L858R/T790M mutational structure. Further, we found how eigenvalues and eigenvectors are changing in the network to prove 
+the stability changes for different structures. The results obtained from this work can lead to further designs of targeted therapeutics and 
+innovative drug development for lung cancer treatment.
